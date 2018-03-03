@@ -66,8 +66,6 @@ ro.qualcomm.cabl=0
 
 # Radio Configuration 
 # IMS
-persist.dbg.vt_avail_ovr=1
-persist.data.iwlan.enable=true
 net.lte.volte_call_capable=true
 persist.ims.enableADBLogs=1
 persist.ims.enableDebugLogs=1
