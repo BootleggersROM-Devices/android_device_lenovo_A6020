@@ -37,6 +37,9 @@ persist.camera.cpp.duplication=false
 # Charger
 persist.sys.chgdisabled=0
 
+# Device
+ro.sf.lcd_density=320
+
 # Display
 debug.composition.type=c2d
 debug.enable.sglscale=1
@@ -63,6 +66,8 @@ ro.qualcomm.cabl=0
 
 # Radio Configuration 
 # IMS
+persist.dbg.vt_avail_ovr=1
+persist.data.iwlan.enable=true
 net.lte.volte_call_capable=true
 persist.ims.enableADBLogs=1
 persist.ims.enableDebugLogs=1
