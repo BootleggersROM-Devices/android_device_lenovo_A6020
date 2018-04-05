@@ -25,6 +25,7 @@ TARGET_SCREEN_HEIGHT := 1920
 PRODUCT_DEVICE := A6020
 PRODUCT_NAME := bootleg_A6020
 
-# Validus Device Maintainers
+# Team Bootleggers
+ro.bootleg.maintainer=Yash Garg
 PRODUCT_BUILD_PROP_OVERRIDES += \
     DEVICE_MAINTAINERS="Yash Garg"
